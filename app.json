@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/ABHI-XD/MUSIC-OP",
+    "repository": "https://github.com/log-afk-xD/abhi-music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
